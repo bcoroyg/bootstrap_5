@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcoroyg/bootstrap_5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcoroyg/bootstrap_5/issues"
+  },
+  "homepage": "https://github.com/bcoroyg/bootstrap_5#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
